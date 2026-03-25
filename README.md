@@ -1,6 +1,6 @@
 # Analysis of Economic Policy Using Consumer Price Index (CPI)
 
-This project analyzes the Consumer Price Index (CPI) for All Urban Consumers (CPI‑U) in the United States, focusing on data from October 2023 to January 2024. CPI is a key economic indicator used to measure inflation and understand changes in the cost of living. For more details: you can follow my [Blog on Medium]([https://medium.com/@akankshawagh/wanna-know-who-you-watched-the-most-on-youtube-c4d7ada6413f](https://medium.com/@akankshawagh/understanding-inflation-through-the-consumer-price-index-a-deep-dive-into-u-s-economic-trends-0937ab357b37)).
+This project analyzes the Consumer Price Index (CPI) for All Urban Consumers (CPI‑U) in the United States, focusing on data from October 2023 to January 2024. CPI is a key economic indicator used to measure inflation and understand changes in the cost of living. For more details: you can follow my [Blog on Medium](https://medium.com/@akankshawagh/understanding-inflation-through-the-consumer-price-index-a-deep-dive-into-u-s-economic-trends-0937ab357b37).
 
 ## Overview
 The goal of this project is to:
